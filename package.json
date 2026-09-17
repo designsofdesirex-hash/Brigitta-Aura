@@ -1,0 +1,19 @@
+{
+  "name": "brigitta-aura-official",
+  "version": "1.0.0",
+  "description": "Brigitta Aura — Relaxed feet content, details, colours and mood",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "brigitta-aura",
+    "feet-content",
+    "custom-media",
+    "luxury-portfolio"
+  ],
+  "author": "Brigitta Aura",
+  "license": "UNLICENSED",
+  "private": true
+}
